@@ -1,0 +1,214 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A second list of the names offices, and rewards of Parliament men for their hearty indeavours to ruinate both king and kingdome. The second centurie.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92815</idno>
+            <idno type="STC">Wing S2290</idno>
+            <idno type="STC">Thomason 669.f.13[10]</idno>
+            <idno type="STC">ESTC R210886</idno>
+            <idno type="EEBO-CITATION">99869638</idno>
+            <idno type="PROQUEST">99869638</idno>
+            <idno type="VID">162905</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92815)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162905)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 246:669f13[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A second list of the names offices, and rewards of Parliament men for their hearty indeavours to ruinate both king and kingdome. The second centurie.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1648]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Annotation on Thomason copy: "1648"; "7ber [i.e. September] 3 1648".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term>Political corruption --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="document">
+            <pb facs="tcp:162905:1" rendition="simple:additions"/>
+            <head>A SECOND LIST Of the Names Offices, and Rewards of Parliament men, for their hearty Indeavours to ruinate both KING and KINGDOME.</head>
+            <head>
+               <hi>The ſecond</hi> CENTURIE.</head>
+            <p>
+               <seg rend="decorInit">I</seg> Gave you in my laſt the names of thoſe Members of the Houſe of Commons (obſerving which were Officers of the Army, contrary to the ſelfe denying Ordinance) together with ſuch ſummes, Offices, and Lands as they had given to them<g ref="char:EOLhyphen"/>ſelves for ſervices done againſt the King and Kingdome, now accor<g ref="char:EOLhyphen"/>ding to my promiſe I appeare a ſecond time unto you, with a Scrole containing what further Offices and rewards, have been beſtowed, upon thoſe who call themſelves Parliament men, but are indeed no other then the betrayers of their King and Country, theſe are they who have ſuppreſt the Monopolies of Sope, Tobacco, they have monopoliz'd our lives, which they offer up on all occaſions as ſacri<g ref="char:EOLhyphen"/>fices to their ambitious deſire of Soveraignty, they have monopo<g ref="char:EOLhyphen"/>liz'd our wives and daughters, whom they abuſe at their pleaſure for the ſating of their monſtrous luſts, they have monopoliz'd our Eſtates, ſo that no man is maſter of what hee hath, all civill pro<g ref="char:EOLhyphen"/>priety be taken away, they Sequeſtring mens Lands, and plun<g ref="char:EOLhyphen"/>dering them to a penny, upon very ſlight and triviall grounds, and indeed without any ground at all, ſave for the inriching of them<g ref="char:EOLhyphen"/>ſelves, theſe are they, that with the King of <hi>Ammon</hi> promiſe us li<g ref="char:EOLhyphen"/>berty, provided wee will permit them, to bore out our right eyes firſt, who bave eaſed us of the payment of a penny, and inſtead thereof conſtraine us to disburſe millions, yea, all wee have, and yet af<g ref="char:EOLhyphen"/>terward caſt us in priſon there to ſtarve with hunger, thoſe and ſuch like are thoſe glorious liberties, to which this <hi>Parliament</hi> hath re<g ref="char:EOLhyphen"/>ſtored us.</p>
+            <p>
+               <hi>COrnelius Holland</hi> given unto him <hi>South-hampton</hi> houſe.</p>
+            <p>Sr. <hi>Henry Vane</hi> made maſter of the Roles, for his eagerneſſe againſt the King on all occaſions, beſides, 2000. l. given him out of the Earle of <hi>Canarvans</hi> eſtate, hee and his ſonne are both Members of the Houſe of <hi>Commons,</hi> and though they received their firſt being from his Majeſty, are the maddeſt dogs of all the whole pack againſt him.</p>
+            <p>The Lord <hi>Grey</hi> (ſonne to the Earle of <hi>Stamford)</hi> who is now in armes for the <hi>Parliament</hi> in the North, and under pretence to ſup<g ref="char:EOLhyphen"/>preſſe Inſurrections, plunders the poore Country people of all they have, hath received as a gratuity from the two Houſes, the Queens Mannour houſe, Parke, and Lands at <hi>Holdenby,</hi> and hath ever ſince his receit of them, continually cut downe the woods, it ſeemes he is fearfull he ſhall not long enjoy them.</p>
+            <p>Sir <hi>William Purfoy,</hi> a great demoliſher of Croſſes and Images, I wonder how he forbore to doe outrage on his owne face, it lookes ſo like Saint <hi>Dunſtanes,</hi> with a paire of tongues at his noſe, he was the hammer that beat downe all the ancient monuments in the Earles Chappell at <hi>VVarwick,</hi> and in St. <hi>Maries</hi> Church, for which hee received at one time a thouſand pounds, at another time five hun<g ref="char:EOLhyphen"/>dred pounds, and hath alſo had beſtowed on him a great ſhare out of Sr. <hi>Henry Comptons</hi> Office, worth 300. l. <hi>per annum.</hi>
+            </p>
+            <p>Sir <hi>Thomus Middleton,</hi> Major Generall for five united Counties, received 2000. l. from the <hi>Parliament,</hi> and made Generall for <hi>Den<g ref="char:EOLhyphen"/>bigh.</hi>
+            </p>
+            <p>Sir <hi>Arthur Haſlerig,</hi> Governour of <hi>Newcaſtle,</hi> given him 3000. l. the Biſhop of <hi>Durhams</hi> houſe with the Parke, and mannour of <hi>Auk<g ref="char:EOLhyphen"/>land.</hi>
+            </p>
+            <p>Mr. <hi>Yarrington</hi> given him 1000. l. out of the eſtate of Sr. <hi>Iohn Ow<g ref="char:EOLhyphen"/>en,</hi> and Sr. <hi>Henry Lingen, Humphrey Salway,</hi> once the Kings Re<g ref="char:EOLhyphen"/>membrancer, given unto him the Biſhops of <hi>VVincheſters</hi> houſe at <hi>Taunton</hi> worth 2000. l. <hi>per annum.</hi>
+            </p>
+            <p>
+               <hi>VVelde<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> a Col. of Horſe, given him 1000 l. out of Sr. <hi>Iohn Harri<g ref="char:EOLhyphen"/>ſons</hi> eſtate, and doth not he well deſerve it.</p>
+            <p>
+               <hi>Tom Scot</hi> the Brewers Clarke, whoſe braines worke perpetually like bottle ale againſt his Majeſtie, and who once ſaid openly in the houſe, that the King was guilty of all the innocent bloud that hath been ſhed and for it ought to bee brought to a legall triall, and to be hangd, given him 2000 l. alſo an Office in Brewers Hall, worth 500. l. <hi>per annum.</hi>
+            </p>
+            <p>
+               <hi>Nol Cromwell</hi> Prince of the Faction, given him at one time 2000 l. at another time 500 l. and ſince his obtaining the laſt victory againſt the <hi>Scots,</hi> given him two thouſand pound more.</p>
+            <p>
+               <hi>VVaite,</hi> a Member of the Houſe of <hi>Commons</hi> given him 600 l. out of the Earle of <hi>VVorceſters</hi> eſtate, alſo Mr, <hi>VVallinghams</hi> place worth 400 l. <hi>per annum.</hi>
+            </p>
+            <p>
+               <hi>Harlow</hi> a Col. given unto him 1000 l. pounds, and an Office in the <hi>Exchequer</hi> worth 500 l. <hi>per annum.</hi>
+            </p>
+            <p>
+               <hi>Blackiſton</hi> a Tailor of <hi>New-Caſtle,</hi> a Member of the Houſe of <hi>Commons,</hi> and can ſo well clip and ſnip the Crowne, and cut in pieces all the robes of the prerogative, given unto him 2000 l. out of the Earle of <hi>Norwich</hi> his eſtate; and an Office in the Exciſe worth 300 l. <hi>per annum.</hi>
+            </p>
+            <p>Sr. <hi>Ralph Aſton</hi> given unto him 1000. pound.</p>
+            <p>Al. <hi>Sidney</hi> given unto him 500 l. and he made Governour of <hi>Do<g ref="char:EOLhyphen"/>ver</hi> Caſtle, <hi>Edmond Ludlow,</hi> given unto him 600 l. and he made Go<g ref="char:EOLhyphen"/>vernour of <hi>Newarke.</hi>
+            </p>
+            <p>
+               <hi>Harvey</hi> a great ſtickler againſt his Majeſty, and a deſperate up<g ref="char:EOLhyphen"/>holder of the faction, and no marvell, for they gave him at one time 1100 l. out of the eſtate of the Lord <hi>Andover,</hi> and hee is at this time poſſeſſed of the Biſhop of <hi>Londons,</hi> and mannor of <hi>Fulham.</hi>
+            </p>
+            <p>
+               <hi>Gilbert Gerhard,</hi> the ſecond ſonne of Sir <hi>Gilbert Gerhard,</hi> the plot finder, given him 200 l. alſo the Clarkſhip of the Aſſize in <hi>Norfolke</hi> worth 500 l. <hi>per annum.</hi>
+            </p>
+            <p>Sr. <hi>Thomas Honiwood,</hi> given him 600 l. out of the eſtate of the Earle of <hi>Cleaveland,</hi> and made receiver of <hi>Yorkeſhire.</hi>
+            </p>
+            <p>Sr. <hi>William Compton,</hi> given him a thouſand pound out of the Lord <hi>Aſtleys</hi> eſtate.</p>
+            <p>
+               <hi>Bloiſe</hi> a Col: given him 600 l. out of ſir <hi>Edward Moſel<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>yes</hi> eſtate, and made Governour of <hi>Exceter.</hi>
+            </p>
+            <p>Sir <hi>Thomas VVithrington</hi> given 1000 l. and hee made Commiſſio<g ref="char:EOLhyphen"/>ner of the great Seale worth 1500 l. <hi>per annum.</hi>
+            </p>
+            <p>
+               <hi>James Scawin</hi> given him 1000 l. and he made an Officer for the Exciſe, worth to him 500 l. <hi>per annum.</hi>
+            </p>
+            <p>
+               <hi>Edward Cooke</hi> given unto him 4000 l. out of the Marqueſſe of <hi>New-caſtles</hi> eſtate.</p>
+            <p>
+               <hi>Smith ſon</hi> a Major, given unto him 1500 l. out of the eſtate of the Lord <hi>Grandiſon,</hi> and he made Governour of <hi>VVarwick.</hi>
+            </p>
+            <p>Sr. <hi>Henry Heyman</hi> given him 5000 l.</p>
+            <p>
+               <hi>H<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>utchinſon</hi> given him 1000 l. and he made Governor of <hi>Oxford.</hi>
+            </p>
+            <p>
+               <hi>Norton</hi> a Col. given him 1500 l. pounds, and he made Gover<g ref="char:EOLhyphen"/>nour of <hi>South hampton.</hi>
+            </p>
+            <p>
+               <hi>Charles Fleetwood</hi> Colonell, given 1600 l. and he made Governour of <hi>Abington.</hi>
+            </p>
+            <p>
+               <hi>Reynolds</hi> given him 2000 l. with <hi>Abington</hi> and the lands belonging thereto. worth 400 l. <hi>per annum.</hi>
+            </p>
+            <p>
+               <hi>Edward Sexby</hi> given him 600 l. and an Office in Goldſmith Hall, worth 300 l. <hi>per annum.</hi>
+            </p>
+            <p>Captaine <hi>Grey</hi> given him 300 l. at one time, at another time 600 l.</p>
+            <p>I cannot but informe you, that theſe Commiſſioners of both Houſes of <hi>Parliament, viz:</hi> Mr. <hi>Adam Lawrence,</hi> Mr. <hi>Dierrick Hooſts,</hi> Mr. <hi>Maurice Thompſon,</hi> and Mr. <hi>Nicholas Corſells,</hi> who were im<g ref="char:EOLhyphen"/>ployed to the States of <hi>Holland,</hi> and to the Burgomaſters of the ſe<g ref="char:EOLhyphen"/>verall Cities to negotiate for the reliefe of the proteſtants in <hi>Ireland,</hi> having given up their accounts, it appeares that they have received of the well effected in <hi>Holland</hi> for the reliefe of the Proteſtants in <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> the full ſumme of one and thirty thouſand two hundred and eighteene pounds, which computed with that which hath been levi<g ref="char:EOLhyphen"/>ed in <hi>England</hi> ſince the warre, amounts to full three millions where<g ref="char:EOLhyphen"/>of the poore Proteſtants of <hi>Ireland</hi> have received barely but twenty thouſand pounds, the reſt is in the Cheſts of our purſe Reformers, theſe are thy worthies oh <hi>England,</hi> to whom thou offreſt up thy ſelfe a bloudy ſacrifice.</p>
+            <p>
+               <hi>Charles Loolen</hi> given him 600 l. with 400 l. more out of the eſtate of ſir <hi>Iohn Srangewaies.</hi>
+            </p>
+            <p>Thus doe our Reformers cut out large thongs out of other mens ſides, and give away franckly that which is none of their owne, as a weeke ſince they beſtowed no leſſe then ſix hundred pounds upon ſe<g ref="char:EOLhyphen"/>verall Meſſengers, who came one upon the neck of another, with the unfortunate newes out of <hi>Scotland,</hi> it might be proved that they have ſquandred away the better part of fourty thouſand pounds ſince this warre upon Spies and Meſſengers theſe are they that have eaſed us of one King, to the end themſelves might all turne Tyrants, who have charitably diverted us from a warre with a forreig<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e Enemy, to the end we might ſheath our ſwords in our owne bowells, that ſo upon our dead carkaſſes they might mount the throne of the Kingdome, theſe are they, that under pretence of purging the errours, have lef<gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap> us <gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o Church at all, but it fares with the people of <hi>England,</hi> as it was once with the <hi>Iſraelites</hi> of old when they had no King to rule over them, every man does that which is right in his owne eyes, theſe are they who have impriſoned and abuſed the moſt vertuous Prince in <hi>Europe,</hi> have quite marr'd the moſt reformed Church in Chriſten<g ref="char:EOLhyphen"/>dome, and who will (without Gods great mercy) bee the ruine of the ſometime) moſt renowned and worthy <hi>Engliſh</hi> Nation, ſo tha<gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap> they ſhall ceaſe from under Heaven.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
